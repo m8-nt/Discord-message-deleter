@@ -8,5 +8,8 @@
 2. edit `config.json` 
 3. run `main.py`
 
+## Usage
+`-purge [amount] [limit(float)]`
+
 ## Warning
 <strong>This program was created for educational purposes. Use at your own risk. At the time of creation (m8_nt) assumes no responsibility.</strong>
